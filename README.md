@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Working on making this super fancy.
 
 <!--
 **kenzo44/kenzo44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
