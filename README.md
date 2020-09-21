@@ -1,5 +1,7 @@
 ### Hi there 👋 Working on making this super fancy.
 
+![Visitor Count](https://profile-counter.glitch.me/kenzo44/count.svg)
+
 <!--
 **kenzo44/kenzo44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
