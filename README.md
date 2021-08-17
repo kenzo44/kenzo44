@@ -1,4 +1,4 @@
-### Hi there 👋 Working on making this super fancy.
+### Hi
 
 ![Visitor Count](https://profile-counter.glitch.me/kenzo44/count.svg)
 
