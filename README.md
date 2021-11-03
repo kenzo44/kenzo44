@@ -1,5 +1,7 @@
 ### Hi
 
+<img src="https://github.com/kenzo44/kenzo44/blob/master/assets/banner.jpg" alt="Kenish Suri">
+
 ![Visitor Count](https://profile-counter.glitch.me/kenzo44/count.svg)
 
 ![](https://komarev.com/ghpvc/?username=kenzo44&color=blue)
