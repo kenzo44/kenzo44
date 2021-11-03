@@ -2,6 +2,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/kenzo44/count.svg)
 
+![](https://komarev.com/ghpvc/?username=kenzo44&color=blue)
+
 <!--
 **kenzo44/kenzo44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
