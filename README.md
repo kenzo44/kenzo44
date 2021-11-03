@@ -1,6 +1,5 @@
-### Hi
-
-<img src="https://github.com/kenzo44/kenzo44/blob/master/assets/banner.jpg" alt="Kenish Suri">
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kenzo44&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzo44&langs_count=5&theme=tokyonight)]()
 
 ![Visitor Count](https://profile-counter.glitch.me/kenzo44/count.svg)
 
