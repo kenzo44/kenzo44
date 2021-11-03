@@ -1,5 +1,8 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kenzo44&hide_border=true&count_private=true&theme=tokyonight&show_icons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzo44&hide_border=true&langs_count=5&theme=tokyonight)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenzo44
 
 ![Visitor Count](https://profile-counter.glitch.me/kenzo44/count.svg)
 
